@@ -26,7 +26,7 @@ public class sender {
             @Override
             protected PasswordAuthentication getPasswordAuthentication() {
 
-                return new PasswordAuthentication("vikastester000@outlook.com", "Polkmn#08641");
+                return new PasswordAuthentication("vikastester000@outlook.com", "XXXXXXXXXXX");
 
             }
 
